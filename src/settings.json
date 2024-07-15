@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace.",
+        "title": "Revolutionize Your Workday"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Revolutionize Your Workday",
+  "subtitle": "Transform productivity with our cutting-edge solutions. Seamlessly integrate, innovate, and thrive in the modern workplace."
+}
